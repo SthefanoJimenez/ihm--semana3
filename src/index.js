@@ -27,7 +27,7 @@ const router = createBrowserRouter([
                 </>
             },
             {
-                path: "detalle",
+                path: "detalle/:slug",
                 element: <Single />,
             },
         ],
