@@ -9,22 +9,22 @@ setTimeout(() => {
 
 const gatos = [
     {
-        name: "Gato 1",
+        name: "celular 1",
         slug: 'gato-1',
         description: "Celular 1",
         picture: 'https://img.global.news.samsung.com/mx/wp-content/uploads/2019/01/SM-J410F_004_L-Perspective_Blue1.jpg'
     },
     {
-        name: "Gato 2",
+        name: "celular 2",
         slug: 'gato-2',
         description: "Es un celular Celular 2",
-        picture: 'https://static.nationalgeographic.es/files/styles/image_3200/public/nationalgeographic_1468962.jpg?w=1600&h=900'
+        picture: 'https://images.samsung.com/is/image/samsung/assets/pe/mobile/pfs/08-01-ft12-S23-FE-mo-720x540.jpg?$FB_TYPE_J_F_MO_JPG$'
     },
     {
-        name: "Gato 3",
+        name: "Celular 3",
         slug: 'gato-3',
         description: "Descripcion Celular 3",
-        picture: 'https://fotografias.lasexta.com/clipping/cmsimages02/2019/01/25/DB41B993-B4C4-4E95-8B01-C445B8544E8E/69.jpg?crop=4156,2338,x0,y219&width=1280&height=720&optimize=high&format=webply'
+        picture: 'https://www.efe.com.pe/media/catalog/product/2/8/286440-800-auto.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700'
     },
 ];
 
