@@ -1,5 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css';
+import './custom.css';
 import { createRoot } from "react-dom/client";
 import Main from "./main";
 import Aside from "./aside";

@@ -1,0 +1,32 @@
+:root {
+    --primary-color: #00aaff; /* Celeste */
+    --secondary-color: #0077cc; /* Celeste oscuro */
+    --background-color: #e5f9fd; /* Fondo celeste claro */
+    --text-color: #003366; /* Texto oscuro */
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+.navbar {
+    background-color: var(--primary-color);
+}
+
+.navbar .nav-link.text-black {
+    color: black !important;
+}
+
+.navbar .navbar-brand.text-black {
+    color: black !important;
+}
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.footer {
+    background-color: var(--secondary-color);
+    color: white;
+}
