@@ -4,7 +4,8 @@ const Header = () => {
     return <header>
          <nav className="navbar navbar-expand-lg bg-body-tertiary">
                 <div className="container-fluid">
-                    <Link className="navbar-brand" to="/">Tecno</Link>
+                <Link className="navbar-brand" to="/">TecnoCel</Link>
+                <img src="https://i.imgur.com/1NFiGlf.jpg" alt="Logo" width="90" height="80" className="d-inline-block" />
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
